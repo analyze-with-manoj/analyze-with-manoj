@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Manoj Kumar R
 
-<!--
-**analyze-with-manoj/analyze-with-manoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Excel | SQL | Power BI | Python  
+📍 Bengaluru, India  
+📧 manojdass1155@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/manoj-kumar-848a7a349)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Excel | SQL | Power BI | Python  
+- Data Cleaning | Dashboards | Visualization
+
+---
+
+## 📘 Projects
+- **Bank-Loan-Analysis** – Analyzed customer data to identify loan approval patterns and key risk factors using Excel and SQL.  
+- **Pizza-Sales** – Visualized sales trends, top-selling pizzas, and revenue by category using Excel and Power BI for business insights.
+- **Electric EV Vehicles Dashboard** – Explored electric vehicle sales trends, adoption rates, and regional growth insights using Power BI.
+
+---
+
+## 📜 Certifications
+- HackerRank SQL  
+- Simplilearn Data Analyst
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojdass1155&show_icons=true&theme=default)

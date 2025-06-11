@@ -27,4 +27,8 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojdass1155&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=analyze-with-manoj&show_icons=true&theme=tokyonight)
+
+## 📈 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=analyze-with-manoj&theme=tokyonight)](https://git.io/streak-stats)
+
